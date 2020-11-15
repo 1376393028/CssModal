@@ -39,7 +39,7 @@
 .content a {
     position: absolute;
     right: 10px;
-    top: calc(49px/2);
+    top: calc(49px / 2);
     transform: translateY(-50%);
     text-decoration: none;
     color: #f00;
